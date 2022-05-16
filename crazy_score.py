@@ -7,6 +7,9 @@
 #
 # This exercise is about
 # basic stack manipulation
+#
+# The code receives a list of scores to be processed 
+# and returns a sum of the total score
 
 
 def score(list_of_scores):
