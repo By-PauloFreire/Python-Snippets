@@ -6,7 +6,7 @@
 
 # Constraint: 1 <= input <= 100
 
-# e.g.    '()[]{}'    - TRUE
+# e.g.    '()[]{}'      - TRUE
 #         '([)]{}'      - FALSE
 
 def validation(*list_of_chars):
